@@ -1,0 +1,25 @@
+body {
+    background-image: url("../img/sunglasses.jpg");
+    background-repeat: repeat-x;
+    
+    
+}
+
+p {
+	font-weight: 40px;
+	font-size: 60px;
+	background-color: green;
+	text-align: center;
+}
+button {
+	color: green;
+	
+
+}
+#CTA {
+	
+	font-size: 40px;
+}
+#twitter {
+	font-size: 40px;
+}
